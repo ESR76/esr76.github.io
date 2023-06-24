@@ -41,7 +41,9 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - blankproj.md
+      - capstone-hvac.md
+      - soccer-proj.md
+      - datahacks-2022.md
 
 sass:
   sass_dir: /assets/css/_sass
