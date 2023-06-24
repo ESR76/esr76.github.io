@@ -1,6 +1,6 @@
 ### your site title here
 
-title: Esperanza Roazas
+title: Esperanza Rozas
 description: subtitle | affiliations | motto
 
 baseurl: #name of GitHub repository
@@ -13,15 +13,8 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
 linkedin: "esperanza-r"
-stackoverflow: "#"
 github: "ESR76"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
 
 
 # Markdown
@@ -64,7 +57,6 @@ include:
 
 exclude:
   - README.md
-  - LICENSE.md
 
 plugins:
   - jekyll-seo-tag
