@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Esperanza Rozas
-description: subtitle | affiliations | motto
+description: she/her | Data science graduate from UC San Diego
 
 baseurl: #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
@@ -13,8 +13,8 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "esperanza-r"
 github: "ESR76"
+linkedin: "esperanza-r"
 
 
 # Markdown
@@ -41,12 +41,7 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - shortProject.md
-      - longerProjectTitle.md
-      - redirect.md
-      - project4.md
-      - project5.md
-      - project6.md
+      - blankproj.md
 
 sass:
   sass_dir: /assets/css/_sass
