@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Esperanza Rozas
-description: she/her | Currently watching - Across the Spider-verse
+description: she/her | Los Gatos, CA
 
 baseurl: #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
@@ -42,8 +42,8 @@ collections:
     permalink: /projects/:name/
     order:
       - capstone-hvac.md
-      - soccer-proj.md
-      - datahacks-2022.md
+      - ds3_soccer-proj.md
+      - sharktank_datahacks-2022.md
 
 sass:
   sass_dir: /assets/css/_sass

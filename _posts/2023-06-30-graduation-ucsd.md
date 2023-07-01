@@ -9,11 +9,11 @@ But if you don't mind me reflecting a bit on my college experience... going to c
 
 I toured UC San Diego in my junior year in high school, and even after I visited other schools and continued to consider my future, the feeling I had stepping on UC San Diego's campus stuck with me. So when I got accepted, it felt like the obvious choice, even with my major as yet undeclared and the path ahead of me unclear.
 
-<img src="/images/pre_ucsd_1.jpg"
+<img src="/assets/images/pre_ucsd_1.jpg"
      alt="A photo of me kneeling next to the Dr. Seuss statue next to Geisel Library."
      style="float: left; margin-right: 10px;" />
 
-<img src="/images/pre_ucsd_2.jpg"
+<img src="/assets/images/pre_ucsd_2.jpg"
      alt="A tour photo of me and my aunt Kerry holding a UC San Diego admit packet and smiling. "
      style="float: right; margin-left: 10px;" />
 
@@ -51,11 +51,11 @@ All of the above is not to say that I went back to school after the height of th
 
 And so that takes me back to graduating. Preparing for graduation and my final move out as an RA and a student was a very stressful time with final exams. Coming to graduation weekend itself though, I was overjoyed. I went to not only my graduation, but the graduation for another college where several of my closest friends were graduating - friends that I might never have made if I was afraid of change like I had been before.
 
-<img src="/images/grad_1.jpg"
+<img src="/assets/images/grad_1.jpg"
      alt="A graduation photo of me underneath the Sun God statue at UC San Diego."
      style="float: left; margin-right: 10px;" />
 
-<img src="/images/grad_2.jpg"
+<img src="/assets/images/grad_2.jpg"
      alt="A graduation photo of me with my friend Dani at our graduation ceremony. "
      style="float: right; margin-left: 10px;" />
 

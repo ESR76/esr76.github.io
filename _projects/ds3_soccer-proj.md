@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Passing and Team Success in Soccer
-description: Our team of four used passing data to evaluate player and team success in soccer matches, as well as creating an interactive data visualization to view players in different positions 
+description: Our team of four used passing data to evaluate player and team success in soccer matches, as well as creating an interactive data visualization to view players in different positions.
 ---
 
 #### Abstract
