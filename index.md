@@ -9,7 +9,7 @@ published: true
 
 Hello, everyone!
 
-My name is Esperanza and I am data analyst & scientist with experience in language processing (NLP), 
+My name is Esperanza and I am data analyst & scientist with experience in language processing (NLP), supervised learning and some unsupervised learning, and data visualization techniques.
 
 Here you can find more in depth descriptions of some of my projects and writing that I've done, both during my time in school and beyond, by following the tabs for [Projects](https://esr76.github.io/projects/){:target="_blank"} and [Blog](https://esr76.github.io/blog/){:target="_blank"}. 
 
