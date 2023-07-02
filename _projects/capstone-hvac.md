@@ -32,5 +32,7 @@ The conclusions we came to were fairly inconclusive, as our analysis relied on p
 #### Full Results and Work
 To view all of the results of our work and our more in-depth process, please read over our [poster](https://www.canva.com/design/DAFZKQlLOLo/2ALw0oHRO8qrPj--Q-8huw/view?utm_content=DAFZKQlLOLo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) from the final showcase and our [website](https://xenonition.github.io/) associated with this project, which contains our final report. The [code](https://github.com/ESR76/Capstone-Brick-Modeling/tree/main) for our project is also publically visible, if you'd like to read over it there.
 
-
+<img src="/assets/images/hvac_1.jpeg"
+     alt="A photo of me presenting my poster at the Capstone Project Showcase."
+     />
 

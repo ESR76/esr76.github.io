@@ -30,3 +30,13 @@ NEEDS TO BE FINISHED
 #### Full Results and Work
 To view all of the results of our work and our more in-depth process, please read over our [poster](https://www.canva.com/design/DAE_GZZcC4s/534ixPVnTqEc9SkTeMDmJA/view?utm_content=DAE_GZZcC4s&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) from the final showcase and our [demo code](https://github.com/gprasad125/soccerDemo) to view the interactive demo on a local machine.
 
+<img src="/assets/images/soccer_2.JPG"
+     alt="A photo of my team of 4 with our project poster."
+     style="float: left; margin-right: 10px;" />
+
+<img src="/assets/images/soccer_1.JPG"
+     alt="A photo of most of the project cohort for the Data Science Student Society in those two quarters."
+     style="float: right; margin-left: 10px;" />
+
+*Two photos from the showcase, the first with my team for the project, and the second with the whole project cohort.*
+

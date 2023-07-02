@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NEED PHOTOS: I've Graduated from UC San Diego!"
+title: "I've Graduated from UC San Diego!"
 ---
 
 As I've given away in the title, I am so honored to announce that about two weeks ago on June 18, 2023, I graduated from UC San Diego with a Bachelor's in Data Science from UC San Diego (more specifically, [the Halicioglu Data Science Institute / HDSI](https://datascience.ucsd.edu/){:target="_blank"}) and a bonus minor in Biological Sciences.
@@ -9,11 +9,11 @@ But if you don't mind me reflecting a bit on my college experience... going to c
 
 I toured UC San Diego in my junior year in high school, and even after I visited other schools and continued to consider my future, the feeling I had stepping on UC San Diego's campus stuck with me. So when I got accepted, it felt like the obvious choice, even with my major as yet undeclared and the path ahead of me unclear.
 
-<img src="/assets/images/pre_ucsd_1.jpg"
+<img src="/assets/images/pre_ucsd_1.JPG"
      alt="A photo of me kneeling next to the Dr. Seuss statue next to Geisel Library."
      style="float: left; margin-right: 10px;" />
 
-<img src="/assets/images/pre_ucsd_2.jpg"
+<img src="/assets/images/pre_ucsd_2.JPG"
      alt="A tour photo of me and my aunt Kerry holding a UC San Diego admit packet and smiling. "
      style="float: right; margin-left: 10px;" />
 
@@ -22,8 +22,6 @@ I toured UC San Diego in my junior year in high school, and even after I visited
 ### COVID and My College Experience
 
 Of course, after my first quarter and a half at university - COVID hit. My family had just visited me in mid-February assuming everything would be as it usually was. Then as we reached the final few weeks of winter quarter, more and more changed. One day, only 5 people showed up in person to my final "Intro to Data Science" lecture. The next, classes were announced as being moved online for all of spring quarter. And finally, one day we were all told that unless we had a specific reason to stay in San Diego to take our online classes (ie. no internet at home, etc.), we should move out immediately. And so, less than a month after my family visit, my family came by again, this time to move me back home from a life I had only just begun to fully get accustomed to.
-
-*** ADD PICTURES FROM THE MOVE ***
 
 COVID changed so much of my college experience, and for the sake of brevity, I won't list every way here. But here are a few ways:
 * I didn't return to San Diego in person until August 2021, taking fully online classes.
@@ -38,9 +36,13 @@ That being said, for all that COVID took away from me, it also gave me an opport
 
 Coming back to campus in my junior year allowed me to soft reset my college experience and from there, I hit the ground running. I wasn't going to let myself miss out on experiencing everything the university had to offer again because I was scared. 
 
-Once I returned to campus in August 2021, I immediately started my training period as an RA for one of campus' undergraduate college. Throughout the year, I added more on top of my classes and RA work, including two more weekly clubs, a weekly shift at the campus food pantry, and a two-quarter long data science project through the Data Science Student society.
+Once I returned to campus in August 2021, I immediately started my training period as an RA for one of campus' undergraduate college. Throughout the year, I added more on top of my classes and RA work, including two more weekly clubs, a weekly shift at the campus food pantry, and a two-quarter long data science project through the Data Science Student society. I left campus more often and explored San Diego.
 
-*** ADD PHOTOS FROM JUNIOR YEAR ***
+<img src="/assets/images/junior_1.jpg"
+     alt="A photo of me in my junior year at a San Diego Wave FC game."
+     style="float: left; margin-right: 10px;" />
+
+*Above is a photo of me at a San Diego Wave FC game at Torero Stadium.* 
 
 I continued to do even more in my senior year, adding an contract internship with Measured Wellness and acting as a co-lead for a small gaming organization on campus, Triton Splatoon. Most importantly, across both years, I re-prioritized my time and spent more time with the people I wanted to get to know better to create strong long-lasting relationships. In the end, these relationships and new experiences from the last two years have come to redefine my college experience.
 
@@ -55,7 +57,7 @@ And so that takes me back to graduating. Preparing for graduation and my final m
      alt="A graduation photo of me underneath the Sun God statue at UC San Diego."
      style="float: left; margin-right: 10px;" />
 
-<img src="/assets/images/grad_2.jpg"
+<img src="/assets/images/grad_2.jpeg"
      alt="A graduation photo of me with my friend Dani at our graduation ceremony. "
      style="float: right; margin-left: 10px;" />
 
