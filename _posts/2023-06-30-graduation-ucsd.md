@@ -52,9 +52,10 @@ Coming back to campus in my junior year allowed me to soft reset my college expe
 
 Once I returned to campus in August 2021, I immediately started my training period as an RA for one of campus' undergraduate college. Throughout the year, I added more on top of my classes and RA work, including two more weekly clubs, a weekly shift at the campus food pantry, and a two-quarter long data science project through the Data Science Student society. I left campus more often and explored San Diego.
 
+<div>
 <img src="/assets/images/junior_1.JPG"
-     alt="A photo of me in my junior year at a San Diego Wave FC game."
-     style="float: left; margin-right: 10px;" />
+     alt="A photo of me in my junior year at a San Diego Wave FC game."/>
+</div>
 
 
 *Above is a photo of me at a San Diego Wave FC game at Torero Stadium.* 

@@ -7,12 +7,12 @@ description: Our team of four used passing data to evaluate player and team succ
 #### Abstract
 The use of data science in sports has exploded in recent years with teams and management in a variety of sports changing to a more data-driven decision making process in the hunt for glory. This project aims to continue that trend in soccer, and looks to analyze team success by examining their passing patterns and event potential over several years worth of data.
 
-Please note - this is an abbreviated version of the results we published. To get a full view of the scope of this project, I recommend following the links to the full poster, as well as downloading and running the demo for this project by following the links at the bottom of the page.
+Please note - this is an abbreviated version of the results we published. To get a full view of the scope of this project, I recommend looking at the presented poster, as well as downloading and running the demo for this project by following the links at the bottom of the page.
 
 ##### Data
-Our data came from StatsBomb's Open Data package, a....
+Our data came from [StatsBomb's Open Data package](https://github.com/statsbomb/open-data), a free package of a subset of StatsBomb's soccer data to encourage data analysis at all different levels of skill.
 
-Much of our demo was based on our initial...
+Much of our demo was based on exploratory and visual analysis we completed before building out our models: as such, our initial analysis was very important to what we developed with this project. 
 
 NEEDS TO BE FINISHED
 
