@@ -11,8 +11,9 @@ I toured UC San Diego in my junior year in high school, and even after I visited
 
 <style> 
   .image-container { 
-    float: left; 
-    margin-right: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 5px;
   } 
 
   .image-container img { 
@@ -22,8 +23,12 @@ I toured UC San Diego in my junior year in high school, and even after I visited
 </style> 
 
 <div class="image-container">
-  <img src="/assets/images/pre_ucsd_1.JPG" alt="A photo of me kneeling next to the Dr. Seuss statue next to Geisel Library.">
+  <div>
+    <img src="/assets/images/pre_ucsd_1.JPG" alt="A photo of me kneeling next to the Dr. Seuss statue next to Geisel Library.">
+  </div>
+  <div>
   <img src="/assets/images/pre_ucsd_2.JPG" alt="A tour photo of me and my aunt Kerry holding a UC San Diego admit packet and smiling." >
+  </div>
 </div>
 
 *Above are two photos of me touring UCSD for the first time. The one on the left is with the Dr. Seuss statue outside the library and the is second with my aunt, Kerry, near the lawn at the Student Services Center.* 
