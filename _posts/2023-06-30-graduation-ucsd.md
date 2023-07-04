@@ -18,18 +18,14 @@ I toured UC San Diego in my junior year in high school, and even after I visited
 
   .image-container-2 img { 
     width: auto; 
-    height: auto; 
+    height: auto;
+    float: left; 
   } 
 
   .image-container-1 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    text-align: center;
   }
-
-  .image-container-1 img { 
-    width: 50%;
-  } 
+  
 </style> 
 
 
