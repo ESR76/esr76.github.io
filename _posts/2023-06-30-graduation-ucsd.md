@@ -21,12 +21,15 @@ I toured UC San Diego in my junior year in high school, and even after I visited
     height: auto; 
   } 
 
-  .image-container {
+  .image-container-1 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
   }
+
+  .image-container-1 img { 
+    width: 50%;
+  } 
 </style> 
 
 
