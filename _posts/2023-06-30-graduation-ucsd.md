@@ -10,19 +10,28 @@ But if you don't mind me reflecting a bit on my college experience... going to c
 I toured UC San Diego in my junior year in high school, and even after I visited other schools and continued to consider my future, the feeling I had stepping on UC San Diego's campus stuck with me. So when I got accepted, it felt like the obvious choice, even with my major as yet undeclared and the path ahead of me unclear.
 
 <style> 
-  .image-container { 
+  .image-container-2 { 
     display: grid;
     grid-template-columns: 1fr 1fr;
     column-gap: 5px;
   } 
 
-  .image-container img { 
+  .image-container-2 img { 
     width: auto; 
     height: auto; 
   } 
+
+  .image-container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 </style> 
 
-<div class="image-container">
+
+
+<div class="image-container-2">
   <div>
     <img src="/assets/images/pre_ucsd_1.JPG" alt="A photo of me kneeling next to the Dr. Seuss statue next to Geisel Library.">
   </div>
@@ -52,11 +61,9 @@ Coming back to campus in my junior year allowed me to soft reset my college expe
 
 Once I returned to campus in August 2021, I immediately started my training period as an RA for one of campus' undergraduate college. Throughout the year, I added more on top of my classes and RA work, including two more weekly clubs, a weekly shift at the campus food pantry, and a two-quarter long data science project through the Data Science Student society. I left campus more often and explored San Diego.
 
-<div>
-<img src="/assets/images/junior_1.JPG"
-     alt="A photo of me in my junior year at a San Diego Wave FC game."/>
+<div class ="image-container-1">
+  <img src="/assets/images/junior_1.JPG" alt="A photo of me in my junior year at a San Diego Wave FC game."/>
 </div>
-
 
 *Above is a photo of me at a San Diego Wave FC game at Torero Stadium.* 
 
@@ -69,7 +76,7 @@ All of the above is not to say that I went back to school after the height of th
 
 And so that takes me back to graduating. Preparing for graduation and my final move out as an RA and a student was a very stressful time with final exams. Coming to graduation weekend itself though, I was overjoyed. I went to not only my graduation, but the graduation for another college where several of my closest friends were graduating - friends that I might never have made if I was afraid of change like I had been before.
 
-<div class="image-container">
+<div class="image-container-2">
   <img src="/assets/images/grad_1.jpg" alt="A graduation photo of me underneath the Sun God statue at UC San Diego.">
   <img src="/assets/images/grad_2.jpeg" alt="A graduation photo of me with my friend Dani at our graduation ceremony.">
 </div>
