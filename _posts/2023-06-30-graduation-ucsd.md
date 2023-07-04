@@ -9,9 +9,15 @@ But if you don't mind me reflecting a bit on my college experience... going to c
 
 I toured UC San Diego in my junior year in high school, and even after I visited other schools and continued to consider my future, the feeling I had stepping on UC San Diego's campus stuck with me. So when I got accepted, it felt like the obvious choice, even with my major as yet undeclared and the path ahead of me unclear.
 
-htmlCopy code<style> 
+<style> 
   .image-container { 
     float: left; 
+    margin-right: 10px;
+  } 
+
+  .image-container img { 
+    width: auto; 
+    height: auto; 
   } 
 </style> 
 

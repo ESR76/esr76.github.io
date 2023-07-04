@@ -36,3 +36,5 @@ To view all of the results of our work and our more in-depth process, please rea
      alt="A photo of me presenting my poster at the Capstone Project Showcase."
      />
 
+*Above is  photo of me presenting my poster at the Capstone Project Showcase.* 
+
