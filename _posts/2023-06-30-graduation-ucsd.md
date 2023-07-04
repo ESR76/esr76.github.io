@@ -1,19 +1,6 @@
 ---
 layout: post
 title: "I've Graduated from UC San Diego!"
-
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
 ---
 
 As I've given away in the title, I am so honored to announce that about two weeks ago on June 18, 2023, I graduated from UC San Diego with a Bachelor's in Data Science from UC San Diego (more specifically, [the Halicioglu Data Science Institute / HDSI](https://datascience.ucsd.edu/){:target="_blank"}) and a bonus minor in Biological Sciences.
@@ -52,7 +39,7 @@ Coming back to campus in my junior year allowed me to soft reset my college expe
 
 Once I returned to campus in August 2021, I immediately started my training period as an RA for one of campus' undergraduate college. Throughout the year, I added more on top of my classes and RA work, including two more weekly clubs, a weekly shift at the campus food pantry, and a two-quarter long data science project through the Data Science Student society. I left campus more often and explored San Diego.
 
-<img src="/assets/images/junior_1.jpg"
+<img src="/assets/images/junior_1.JPG"
      alt="A photo of me in my junior year at a San Diego Wave FC game."
      style="float: left; margin-right: 10px;" />
 
