@@ -42,7 +42,7 @@ collections:
     permalink: /projects/:name/
     order:
       - capstone-hvac.md
-      - ds3_soccer-proj.md
+      # - ds3_soccer-proj.md
       - sharktank_datahacks-2022.md
 
 sass:
