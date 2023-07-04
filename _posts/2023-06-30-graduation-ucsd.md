@@ -56,6 +56,7 @@ Once I returned to campus in August 2021, I immediately started my training peri
      alt="A photo of me in my junior year at a San Diego Wave FC game."
      style="float: left; margin-right: 10px;" />
 
+
 *Above is a photo of me at a San Diego Wave FC game at Torero Stadium.* 
 
 I continued to do even more in my senior year, adding an contract internship with Measured Wellness and acting as a co-lead for a small gaming organization on campus, Triton Splatoon. Most importantly, across both years, I re-prioritized my time and spent more time with the people I wanted to get to know better to create strong long-lasting relationships. In the end, these relationships and new experiences from the last two years have come to redefine my college experience.
