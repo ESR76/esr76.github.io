@@ -3,16 +3,11 @@ layout: post
 title: "I've Graduated from UC San Diego!"
 ---
 
-As I've given away in the title, I am so honored to announce that about two weeks ago on June 18, 2023, I graduated from UC San Diego with a Bachelor's in Data Science from UC San Diego (more specifically, [the Halicioglu Data Science Institute / HDSI](https://datascience.ucsd.edu/){:target="_blank"}) and a bonus minor in Biological Sciences.
-
-But if you don't mind me reflecting a bit on my college experience... going to college was certainly one of the biggest achievements and adventures of my lifetime, and it didn't always run smoothly.
-
-I toured UC San Diego in my junior year in high school, and even after I visited other schools and continued to consider my future, the feeling I had stepping on UC San Diego's campus stuck with me. So when I got accepted, it felt like the obvious choice, even with my major as yet undeclared and the path ahead of me unclear.
-
 <style> 
   .image-container-2 { 
     display: grid;
     grid-template-columns: 1fr 1fr;
+    text-align: center;
     column-gap: 5px;
   } 
 
@@ -26,9 +21,13 @@ I toured UC San Diego in my junior year in high school, and even after I visited
     text-align: center;
   }
   
-</style> 
+</style>
 
+As I've given away in the title, I am so honored to announce that about two weeks ago on June 18, 2023, I graduated from UC San Diego with a Bachelor's in Data Science from UC San Diego (more specifically, [the Halicioglu Data Science Institute / HDSI](https://datascience.ucsd.edu/){:target="_blank"}) and a bonus minor in Biological Sciences.
 
+But if you don't mind me reflecting a bit on my college experience... going to college was certainly one of the biggest achievements and adventures of my lifetime, and it didn't always run smoothly.
+
+I toured UC San Diego in my junior year in high school, and even after I visited other schools and continued to consider my future, the feeling I had stepping on UC San Diego's campus stuck with me. So when I got accepted, it felt like the obvious choice, even with my major as yet undeclared and the path ahead of me unclear.
 
 <div class="image-container-2">
   <div>
