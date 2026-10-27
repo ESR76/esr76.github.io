@@ -7,7 +7,6 @@ title: "I've Graduated from UC San Diego!"
   .image-container-2 { 
     display: grid;
     grid-template-columns: 1fr 1fr;
-    text-align: center;
     column-gap: 5px;
   } 
 
